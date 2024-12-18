@@ -2,6 +2,13 @@
 
 This repository contains a simple publisher and subscriber for Unity using Zenoh.
 
+## Demo
+
+
+<video src="https://github.com/user-attachments/assets/a405b4b7-149f-4c5b-8849-6268ef0bcdda" controls="true"></video>
+
+
+
 ## Getting Started
 
 ### Prerequisites
