@@ -1,0 +1,29 @@
+# Visual Studio の一般的なファイル
+.vs/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
+
+# ビルドで生成されるファイル
+Debug/
+Release/
+x64/
+*.tlog
+*.idb
+*.pdb
+*.obj
+*.ilk
+*.exe
+*.dll
+*.lib
+*.ipch
+*.pch
+
+# その他のファイル
+Thumbs.db
+*.log
